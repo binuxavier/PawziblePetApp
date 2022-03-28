@@ -26,7 +26,7 @@ function App() {
             <Route path="/health" component={Health} />
             <Route path="/product" component={Product} />
             <Route path="/services" component={Services} />
-            <Route path="/findbreeders" component={FindBreeders} />
+            <Route path="/findbryeeders" component={FindBreeders} />
           </Switch>
         </Router>
       </div>
