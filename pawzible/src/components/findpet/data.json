@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Golden Retriver",
+    "img": "./Assets/Dog1.jpg",
+    "desc": "I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json.",
+    "longDesc": "I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json.I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json.I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json.I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json."
+  },
+  {
+    "name": "Husk",
+    "img": "./Assets/dog2.jpg",
+    "desc": "Husky is a general term for a dog used in the polar regions, primarily and specifically for work as sled dogs.",
+    "longDesc": "I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json.I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json.I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json.I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json."
+  },
+
+  {
+    "name": "Dobermann",
+    "img": "./Assets/dog3.jpg",
+    "desc": "The Dobermann, or Doberman Pinscher in the United States and Canada, is a medium-large breed of domestic dog that was originally developed around 1890 by Louis Dobermann, a tax collector from Germany.",
+    "longDesc": "I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json.I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json.I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json.I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json."
+  },
+  {
+    "name": "Pug",
+    "img": "./Assets/dog4.jpg",
+    "desc": "The pug is a breed of dog originally from China, with physically distinctive features of a wrinkly, short-muzzled face and curled tail. ",
+    "longDesc": "I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json.I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json.I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json.I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json."
+  },
+  {
+    "name": "German Shepherd",
+    "img": "./Assets/diya2.jpg",
+    "desc": "The German Shepherd Dog, also known as the Alsatian, is a German breed of working dog of medium to large size.",
+    "longDesc": "I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json.I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json.I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json.I have JSON array with three different objects, ID, Name and Image. Copy the below data and paste it in a Notepad. Save the file as data-with-image.json."
+  }
+]
