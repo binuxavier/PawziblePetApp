@@ -2,28 +2,28 @@ import { makeStyles } from "@mui/styles";
 
 export const useStyles = makeStyles((theme) => ({
   root: {
-    margin: "8px",
-    padding: "8px",
+    margin: theme.spacing(1),
+    padding: theme.spacing(1),
   },
 
   petdetail: {
-    margin: "8px",
-    padding: "8px",
+    margin: theme.spacing(1),
+    padding: theme.spacing(1),
   },
 
   filter: {
-    margin: "8px",
-    padding: "8px",
+    margin: theme.spacing(1),
+    padding: theme.spacing(1),
   },
 
   petimg: {
-    height: "100px !important",
-    width: "100px !important",
+    height: theme.spacing(10),
+    width: theme.spacing(10),
   },
 
   filterpaper: {
-    margin: "8px",
-    padding: "8px",
+    margin: theme.spacing(1),
+    padding: theme.spacing(1),
   },
 }));
 
